@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritymishra
+- 👋 Hi, I’m @PrityKumari
 - 👀 I am an aspiring Data analyst who wishes to Solve Problems in the world by means Of Data.
 - 🌱 I’m currently learning data analysis with python.
 - 💞️ I’m looking ahead For a great Opportunity.
